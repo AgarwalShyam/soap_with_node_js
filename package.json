@@ -1,0 +1,23 @@
+{
+  "name": "soap_with_node_js",
+  "version": "1.0.0",
+  "description": "Node with Soap",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgarwalShyam/soap_with_node_js.git"
+  },
+  "author": "Shyam Agarwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AgarwalShyam/soap_with_node_js/issues"
+  },
+  "homepage": "https://github.com/AgarwalShyam/soap_with_node_js#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
